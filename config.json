@@ -1,0 +1,9 @@
+{
+  "grobid_server": "http://localhost:8070",
+  "batch_size": 10,
+  "sleep_time": 5,
+  "timeout": 60,
+  "coordinates": false,
+  "consolidate_header": "1",
+  "consolidate_citations": "1"
+}

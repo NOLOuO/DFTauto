@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environment
+.env
+.venv/
+venv/
+
+# Generated output
+output/
+
+# Local seed papers
+input/papers/seed/*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
